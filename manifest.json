@@ -12,8 +12,8 @@
                 "changelog": "Initial release.",
                 "targetAbi": "12.0.0.0",
                 "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.0/gapless-player_0.1.0.0-jf12.zip",
-                "checksum": "f788348b5d2f556e468601950ba24f50",
-                "timestamp": "2026-07-05T10:15:21.0000000Z"
+                "checksum": "b4fcd41b7b70345a14ee81356ecdbef5",
+                "timestamp": "2026-07-05T10:48:46.0000000Z"
             }
         ]
     }

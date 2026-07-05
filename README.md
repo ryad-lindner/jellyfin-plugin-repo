@@ -9,8 +9,8 @@ your server major:
 
 | Jellyfin | Manifest URL |
 |----------|--------------|
-| 12.x     | `https://raw.githubusercontent.com/ryad-lindner/jellyfin-plugin-repo/master/manifest.json` |
-| 10.11.x  | `https://raw.githubusercontent.com/ryad-lindner/jellyfin-plugin-repo/master/manifest-10.json` |
+| 12.x     | `https://raw.githubusercontent.com/ryad-lindner/jellyfin-plugin-repo/main/manifest.json` |
+| 10.11.x  | `https://raw.githubusercontent.com/ryad-lindner/jellyfin-plugin-repo/main/manifest-10.json` |
 
 Each Jellyfin major has its own manifest so a server only ever sees a compatible
 plugin build.
