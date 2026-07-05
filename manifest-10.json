@@ -1,0 +1,20 @@
+[
+    {
+        "guid": "399b650e-cca7-4f06-95a1-6b55f6fededc",
+        "name": "Gapless Player",
+        "description": "Gapless Web Audio playback for eligible audio queues in the web client. The stock HTML audio player remains the fallback.",
+        "overview": "Gapless Web Audio playback for eligible audio queues.",
+        "owner": "ryad-lindner",
+        "category": "General",
+        "versions": [
+            {
+                "version": "0.1.0.0",
+                "changelog": "Initial release.",
+                "targetAbi": "10.11.11.0",
+                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.0/gapless-player_0.1.0.0-jf10.zip",
+                "checksum": "53e3066fd6b0c1a1f14ade867b2a6ab8",
+                "timestamp": "2026-07-05T10:20:48.0000000Z"
+            }
+        ]
+    }
+]
