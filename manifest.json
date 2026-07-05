@@ -8,12 +8,12 @@
         "category": "General",
         "versions": [
             {
-                "version": "0.1.0.1",
-                "changelog": "Injection via response middleware (no web-root write access required).",
+                "version": "0.1.0.2",
+                "changelog": "Add now-playing-bar toggle button.",
                 "targetAbi": "12.0.0.0",
-                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.1/gapless-player_0.1.0.1-jf12.zip",
-                "checksum": "3947a40a9e271b75f48c35c43b2b023c",
-                "timestamp": "2026-07-05T11:03:04.0000000Z"
+                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.2/gapless-player_0.1.0.2-jf12.zip",
+                "checksum": "e966707a6429213ccfb9e83aa8c1edbc",
+                "timestamp": "2026-07-05T11:23:11.0000000Z"
             }
         ]
     }
