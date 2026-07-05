@@ -8,12 +8,12 @@
         "category": "General",
         "versions": [
             {
-                "version": "0.1.0.0",
-                "changelog": "Initial release.",
+                "version": "0.1.0.1",
+                "changelog": "Injection via response middleware (no web-root write access required).",
                 "targetAbi": "12.0.0.0",
-                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.0/gapless-player_0.1.0.0-jf12.zip",
-                "checksum": "b4fcd41b7b70345a14ee81356ecdbef5",
-                "timestamp": "2026-07-05T10:48:46.0000000Z"
+                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.1/gapless-player_0.1.0.1-jf12.zip",
+                "checksum": "3947a40a9e271b75f48c35c43b2b023c",
+                "timestamp": "2026-07-05T11:03:04.0000000Z"
             }
         ]
     }
