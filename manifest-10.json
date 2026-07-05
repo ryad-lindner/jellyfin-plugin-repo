@@ -8,12 +8,12 @@
         "category": "General",
         "versions": [
             {
-                "version": "0.1.0.2",
-                "changelog": "Add now-playing-bar toggle button.",
+                "version": "0.1.0.3",
+                "changelog": "Fall back to normal player and strip leading ID3 tags for undecodable FLAC.",
                 "targetAbi": "10.11.11.0",
-                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.2/gapless-player_0.1.0.2-jf10.zip",
-                "checksum": "146678d1488802c2faf9e2c05fb3b9a0",
-                "timestamp": "2026-07-05T11:23:42.0000000Z"
+                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.3/gapless-player_0.1.0.3-jf10.zip",
+                "checksum": "357f5332a484b83b7fc5a6496a3e794a",
+                "timestamp": "2026-07-05T11:37:05.0000000Z"
             }
         ]
     }
