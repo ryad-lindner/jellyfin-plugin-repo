@@ -8,12 +8,12 @@
         "category": "General",
         "versions": [
             {
-                "version": "0.1.0.5",
-                "changelog": "Gapless Web Audio playback for eligible audio queues. Injects into the stock web client in-memory (no web-root writes); now-playing-bar on/off toggle; download progress in the seek bar while a track loads; optional now-playing browser notifications (plugin setting); repeat and shuffle; graceful fallback to the normal player for undecodable tracks; strips leading ID3 tags so tagged FLAC decodes gaplessly.",
-                "targetAbi": "12.0.0.0",
-                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.5/gapless-player_0.1.0.5-jf12.zip",
-                "checksum": "f0bda3dcb1ed5d0af58d3fa1ab98b8ba",
-                "timestamp": "2026-09-24T16:23:20.0000000Z"
+                "version": "0.1.0.6",
+                "changelog": "Gapless Web Audio playback for eligible audio queues. Injects into the stock web client in-memory (no web-root writes); now-playing-bar on/off toggle; download progress in the seek bar while a track loads; optional now-playing browser notifications (plugin setting); repeat and shuffle; seek and unpause near the end of a track start immediately; graceful fallback to the normal player for undecodable tracks; strips leading ID3 tags so tagged FLAC decodes gaplessly. Requires Jellyfin 12.3 or later.",
+                "targetAbi": "12.3.0.0",
+                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.6/gapless-player_0.1.0.6-jf12.zip",
+                "checksum": "9f0a8a5618a57241796c8283983e1e0d",
+                "timestamp": "2026-10-25T07:58:57.0000000Z"
             }
         ]
     }
