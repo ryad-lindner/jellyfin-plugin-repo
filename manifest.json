@@ -8,12 +8,12 @@
         "category": "General",
         "versions": [
             {
-                "version": "0.1.0.7",
-                "changelog": "Gapless Web Audio playback for eligible audio queues. Injects into the stock web client in-memory (no web-root writes); now-playing-bar on/off toggle; download progress in the seek bar while a track loads; optional now-playing browser notifications (plugin setting); repeat and shuffle; seek and unpause near the end of a track start immediately; accurate playback reporting (every track start is paired with one stop at the right position, so played marks, resume points and scrobbling are correct, also on album switches and stop); pause takes effect while a track is still loading; graceful fallback to the normal player for undecodable tracks, also when skipping or resuming; strips leading ID3 tags so tagged FLAC decodes gaplessly. Requires Jellyfin 12.3 or later.",
+                "version": "0.1.0.8",
+                "changelog": "Gapless Web Audio playback for eligible audio queues. Injects into the stock web client in-memory (no web-root writes); now-playing-bar on/off toggle; download progress in the seek bar while a track loads; optional now-playing browser notifications (plugin setting); repeat and shuffle; seek and unpause near the end of a track start immediately; accurate playback reporting (every track start is paired with one stop at the right position, so played marks, resume points and scrobbling are correct, also on album switches and stop); pause takes effect while a track is still loading; pause, seek, skip and play-next keep working while the browser resumes audio after a background interruption (mobile); graceful fallback to the normal player for undecodable tracks, also when skipping or resuming; strips leading ID3 tags so tagged FLAC decodes gaplessly. Requires Jellyfin 12.3 or later.",
                 "targetAbi": "12.3.0.0",
-                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.7/gapless-player_0.1.0.7-jf12.zip",
-                "checksum": "81dae0dc46db0c693cfd5cc3082a0cab",
-                "timestamp": "2026-10-25T17:37:43.0000000Z"
+                "sourceUrl": "https://github.com/ryad-lindner/jellyfin-plugin-gapless-player/releases/download/v0.1.0.8/gapless-player_0.1.0.8-jf12.zip",
+                "checksum": "4d96b1e8309a6186b6dcfb70925e5f3d",
+                "timestamp": "2026-10-25T19:22:16.0000000Z"
             }
         ]
     }
